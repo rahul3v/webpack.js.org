@@ -67,9 +67,6 @@
         <loc>https://webpack.js.org/writers-guide</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/api/cli</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/api/compilation-hooks</loc>
     </url>
     <url>
@@ -80,6 +77,9 @@
     </url>
     <url>
         <loc>https://webpack.js.org/api/hot-module-replacement</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/api/cli</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/loaders</loc>
@@ -139,9 +139,6 @@
         <loc>https://webpack.js.org/concepts/module-resolution</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/concepts/modules</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/concepts/output</loc>
     </url>
     <url>
@@ -170,6 +167,9 @@
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/entry-context</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/concepts/modules</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/experiments</loc>
@@ -442,9 +442,6 @@
         <loc>https://webpack.js.org/migrate/5</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/NoEmitOnErrorsPlugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
@@ -506,6 +503,9 @@
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/internal-plugins</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/plugins/NoEmitOnErrorsPlugin</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/limit-chunk-count-plugin</loc>
