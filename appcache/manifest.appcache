@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:8/10/2020, 3:31:45 PM
+#ver:8/10/2020, 3:34:02 PM
 #plugin:5.0.7
 
 CACHE:
@@ -14,7 +14,7 @@ CACHE:
 /1ebd0482aadade65f20ec178219fe012.woff2
 /314bbcd238d458622bbf32427346774f.woff
 /92e7246d53b5483113e2d66d4ac750b4.png
-/18908453facc3784b096.css
+/1027ec1e84a3f6c5acde.css
 /index.bundle.js
 /vendor.bundle.js
 /2.37a9ca7d1caa4854fdc0.chunk.js
@@ -28,7 +28,7 @@ CACHE:
 /9.d22a929794ce628b53eb.chunk.js
 /10.c60a2a90e08aba0881b6.chunk.js
 /11.8cd3b28a1b9ecef9cfb5.chunk.js
-/12.52d846218829cb511c66.chunk.js
+/12.b44963d114d9418f685c.chunk.js
 /13.d3ee3c27d9f9eee1489f.chunk.js
 /14.92c3708c38096c133a89.chunk.js
 /15.c32169ab451fa525d24d.chunk.js
@@ -191,9 +191,9 @@ CACHE:
 /app-shell/
 /
 /manifest.json
+/1241f43af30d943929f1.css
 /57c717e75066b659cfe19dc2a643153c.svg
 /7052446b5e67df4434f4031afd2f1497.svg
-/773b4ec9e0bd5b3b38dc.css
 /7ebb1b3901ce119694f65e04f6347ef5.svg
 /96ccbfac58b65e83657a220603e00abe.svg
 /9ad96ef3b5c2bfe6875b.css
