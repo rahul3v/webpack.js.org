@@ -217,13 +217,13 @@
         <loc>https://webpack.js.org/contribute/debugging</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/contribute/plugin-patterns</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/contribute/release-process</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/contribute/writers-guide</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/contribute/plugin-patterns</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/contribute/writing-a-loader</loc>
@@ -280,10 +280,10 @@
         <loc>https://webpack.js.org/guides/code-splitting-import</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/guides/code-splitting-libraries</loc>
+        <loc>https://webpack.js.org/guides/code-splitting-require</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/guides/code-splitting-require</loc>
+        <loc>https://webpack.js.org/guides/code-splitting-libraries</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/guides/csp</loc>
@@ -382,7 +382,7 @@
         <loc>https://webpack.js.org/loaders/imports-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/loaders/istanbul-instrumenter-loader</loc>
+        <loc>https://webpack.js.org/loaders/json5-loader</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/loaders/less-loader</loc>
@@ -394,10 +394,10 @@
         <loc>https://webpack.js.org/loaders/node-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/loaders/json5-loader</loc>
+        <loc>https://webpack.js.org/loaders/null-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/loaders/null-loader</loc>
+        <loc>https://webpack.js.org/loaders/istanbul-instrumenter-loader</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/loaders/polymer-webpack-loader</loc>
@@ -445,9 +445,6 @@
         <loc>https://webpack.js.org/migrate/5</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/NoEmitOnErrorsPlugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
@@ -466,10 +463,13 @@
         <loc>https://webpack.js.org/plugins/compression-webpack-plugin</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/plugins/context-exclusion-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/plugins/context-replacement-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/context-exclusion-plugin</loc>
+        <loc>https://webpack.js.org/plugins/NoEmitOnErrorsPlugin</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/copy-webpack-plugin</loc>
@@ -553,9 +553,6 @@
         <loc>https://webpack.js.org/plugins/stylelint-webpack-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/terser-webpack-plugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/plugins/uglifyjs-webpack-plugin</loc>
     </url>
     <url>
@@ -568,6 +565,9 @@
         <loc>https://webpack.js.org/pluginsapi/compiler</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/plugins/terser-webpack-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/pluginsapi/template</loc>
     </url>
     <url>
@@ -575,6 +575,9 @@
     </url>
     <url>
         <loc>https://webpack.js.org/api/plugins/compiler</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/api/plugins/module-factories</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/plugins/parser</loc>
@@ -587,8 +590,5 @@
     </url>
     <url>
         <loc>https://webpack.js.org/api/plugins/template</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/api/plugins/module-factories</loc>
     </url>
 </urlset>
