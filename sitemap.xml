@@ -10,13 +10,10 @@
         <loc>https://webpack.js.org/branding</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/concepts</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/comparison</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/configuration</loc>
+        <loc>https://webpack.js.org/concepts</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/contribute</loc>
@@ -28,10 +25,13 @@
         <loc>https://webpack.js.org/get-started</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/guides</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/glossary</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/guides</loc>
+        <loc>https://webpack.js.org/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/license</loc>
@@ -91,9 +91,6 @@
         <loc>https://webpack.js.org/api/module-methods</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/api/module-variables</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/api/node</loc>
     </url>
     <url>
@@ -110,6 +107,9 @@
     </url>
     <url>
         <loc>https://webpack.js.org/api/stats</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/api/module-variables</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/concepts/configuration</loc>
@@ -155,63 +155,6 @@
     </url>
     <url>
         <loc>https://webpack.js.org/concepts/why-webpack</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/configuration-languages</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/configuration-types</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/dev-server</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/devtool</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/entry-context</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/experiments</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/externals</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/mode</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/module</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/node</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/optimization</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/other-options</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/output</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/performance</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/plugins</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/resolve</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/stats</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/target</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/configuration/watch</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/contribute/debugging</loc>
@@ -349,7 +292,61 @@
         <loc>https://webpack.js.org/guides/why-webpack</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/loaders/babel-loader</loc>
+        <loc>https://webpack.js.org/configuration/configuration-languages</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/configuration-types</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/dev-server</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/devtool</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/entry-context</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/experiments</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/externals</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/mode</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/module</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/node</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/optimization</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/other-options</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/output</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/performance</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/plugins</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/resolve</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/stats</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/target</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/configuration/watch</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/loaders/cache-loader</loc>
@@ -359,6 +356,9 @@
     </url>
     <url>
         <loc>https://webpack.js.org/loaders/css-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/loaders/babel-loader</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/loaders/eslint-loader</loc>
@@ -445,10 +445,10 @@
         <loc>https://webpack.js.org/migrate/5</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/NoEmitOnErrorsPlugin</loc>
+        <loc>https://webpack.js.org/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/automatic-prefetch-plugin</loc>
+        <loc>https://webpack.js.org/plugins/NoEmitOnErrorsPlugin</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/babel-minify-webpack-plugin</loc>
@@ -508,13 +508,13 @@
         <loc>https://webpack.js.org/plugins/ignore-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/internal-plugins</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/plugins/limit-chunk-count-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/min-chunk-size-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/plugins/internal-plugins</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/mini-css-extract-plugin</loc>
@@ -571,10 +571,10 @@
         <loc>https://webpack.js.org/pluginsapi/template</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/api/plugins/compilation</loc>
+        <loc>https://webpack.js.org/api/plugins/compiler</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/api/plugins/compiler</loc>
+        <loc>https://webpack.js.org/api/plugins/compilation</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/plugins/module-factories</loc>
